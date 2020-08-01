@@ -146,3 +146,10 @@ body {
 	margin-left: 50px;
 	width: 50px;
 }
+
+.square {
+	width: 200px;
+	height: 200px;
+	border: 1px solid lightgray;
+	margin-top: 20px;
+}
